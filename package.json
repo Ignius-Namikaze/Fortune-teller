@@ -1,0 +1,24 @@
+{
+  "name": "fun-fortune-teller",
+  "version": "1.0.0",
+  "description": "A hilariously unhelpful fortune teller CLI.",
+  "main": "index.js",
+  "bin": {
+    "fortune-teller": "./index.js"  
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests yet, because fortunes are unpredictable!\" && exit 0"
+  },
+  "keywords": ["fun", "cli", "fortune", "funny", "fortune-teller"],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ignius-Namikaze/Fortune-teller" 
+  },
+  "bugs": {
+    "url": "..." 
+  },
+  "homepage": "..." 
+}
